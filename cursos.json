@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1006428216,
+    "nombre": "Santiago Diaz Franki",
+    "asignatura": "Matemáticas",
+    "cant_estudiantes": 30,
+    "dia": 0,
+    "total_horas": 4,
+    "bloquepreferido": 0,
+    "asignado": 0
+    
+  },
+  {
+    "id": 1006428217,
+    "nombre": "Juan Perez",
+    "asignatura": "Fisica",
+    "cant_estudiantes": 25,
+    "dia": 0,
+    "total_horas": 2,
+    "bloquepreferido": 1,
+    "asignado": 0
+    
+  },{
+    "id": 1006428218,
+    "nombre": "Arnulfo Castrillo",
+    "asignatura": "Programacion",
+    "cant_estudiantes": 27,
+    "dia": 3,
+    "total_horas": 2,
+    "bloquepreferido": 0,
+    "asignado": 0
+    
+  },{
+    "id": 1006428219,
+    "nombre": "Juan Carlos Guitierrez",
+    "asignatura": "Analisis Numerico",
+    "cant_estudiantes": 30,
+    "dia": 0,
+    "total_horas": 2,
+    "bloquepreferido": 0,
+    "asignado": 0
+  }
+]

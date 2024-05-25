@@ -1,0 +1,17 @@
+[
+    {
+        "id": 101,
+        "nombre": "Sala A",
+        "cant_alumnos": 30
+    },
+    {
+        "id": 102,
+        "nombre": "Sala B",
+        "cant_alumnos": 25
+    },
+    {
+        "id": 103,
+        "nombre": "Sala C",
+        "cant_alumnos": 30
+    }
+]
